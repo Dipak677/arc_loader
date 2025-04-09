@@ -1,0 +1,20 @@
+name: arc_loader
+description: A customizable Flutter package to display animated arc-shaped loaders with support for multiple styles, speeds, and colors.
+version: 0.0.1
+homepage: https://github.com/Dipak677/arc_loader
+
+environment:
+  sdk: ">=3.4.0 <4.0.0"
+  flutter: ">=3.22.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+
+flutter:
